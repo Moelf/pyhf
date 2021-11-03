@@ -46,3 +46,9 @@ Updating list of HEPData entries for publications using ``HistFactory`` JSON sta
    :list: enumerated
    :all:
    :style: unsrt
+
+.. note::
+
+   ATLAS maintains a public listing of all published statistical models on the `ATLAS public results
+   page <https://twiki.cern.ch/twiki/bin/view/AtlasPublic>`__ which can be found by filtering all
+   public results by the "Likelihood available" analysis characteristics keyword.
